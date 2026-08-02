@@ -80,18 +80,18 @@ $  python  main.py
 ***  You need python on your computer to run project.
 *** You need python-dotenv library (run on console to install it -> pip install python-dotenv)
 
-1. Create a secret token for access [GitHub API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
+**1. Create a secret token for access** [GitHub API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
 - You need to have a personel acces token from github settings.
 - Settings → Developer settings → Personal access tokens -> [tokens](https://github.com/settings/personal-access-tokens/)
 - under token section there is *PERMISSIONS* tab. Add permission for followers and set it *READ and WRITE*
 
-2. Set your user  .env file as shown.
+**2. Set your user  .env file as shown.**
 - there is an example .env file on project folder. edit it with text editor.
 
-3. Set time sleep, remember that you can only make 5000 requests.
+**3. Set time sleep, remember that you can only make 5000 requests.**
 - You can set it 1 or 2 (second) EXAMPLE: If you have 1000 following and not 200 person not following you = 1210 requests
 
-4. Run the application
+**4. Run the application**
 
 $  python  main.py
 
