@@ -129,4 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
   
 
-Feito com :hearts: by Frank Laércio :wave:!
+:hearts: by Frank Laércio :wave:!
