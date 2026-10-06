@@ -65,7 +65,7 @@ $  cp  .env.example  .env.local
 
   
 
-# Run the application
+# Run the application command promt
 
 $  python  main.py
 
